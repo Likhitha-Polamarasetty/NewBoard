@@ -1,3 +1,3 @@
 # NewBoard
-# Trying to create a project in GitHub
+# Creating a a new project in GitHub
 echo "hi"
